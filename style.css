@@ -30,7 +30,7 @@ p{
 /* features of mobile app*/
 .feat-sec-mobile{
 padding: 8% 15% 8% 10%;
-background-color: #EEE;
+background-color: #f2f2f2;
 }
 .feat-sec-gear{
     padding: 8% 15%;
@@ -39,7 +39,7 @@ background-color: #EEE;
 /* usage */
 .usage-section{
     padding: 8% 15%;
-    background-color: #EEE;
+    background-color: #f2f2f2;
 }
 .slide-box{
     padding: 8% 15%;
@@ -78,4 +78,22 @@ background-color: #EEE;
 i{
     margin: 0.5rem;
     color: #999999;
+}
+
+.inputs{
+    font-size: 0.9rem;
+}
+.custom-button{
+    background-color: #44DBBD;
+    color: white;
+    width: 100%;
+    font-size: 0.8rem;
+    border: 0px;
+}
+.custom-button:hover{
+    background-color: black;
+    color: #44DBBD;
+}
+.input-box{
+    width: 100%;
 }
